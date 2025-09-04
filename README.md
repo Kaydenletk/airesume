@@ -1,4 +1,5 @@
 # Welcome to React Router!
+<img width="1185" height="630" alt="Screenshot 2025-09-04 at 3 45 07 PM" src="https://github.com/user-attachments/assets/b0f563ab-6582-4581-aa1e-ee05d2fc04bf" />
 
 A modern, production-ready template for building full-stack React applications using React Router.
 
