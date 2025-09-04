@@ -1,7 +1,8 @@
-# Welcome to React Router!
-<img width="1185" height="630" alt="Screenshot 2025-09-04 at 3 45 07 PM" src="https://github.com/user-attachments/assets/b0f563ab-6582-4581-aa1e-ee05d2fc04bf" />
+# Welcome to REZOOMIND
+I built a website that helps applicants check their resumes by analyzing them against job descriptions, providing ATS-style scores, and giving actionable feedback to improve their chances of landing interviews.
 
-A modern, production-ready template for building full-stack React applications using React Router.
+<img width="1190" height="631" alt="Screenshot 2025-09-04 at 3 54 22 PM" src="https://github.com/user-attachments/assets/ae66f883-2ae2-4da4-9136-e165fb083c91" />
+
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/remix-run/react-router-templates/tree/main/default)
 
